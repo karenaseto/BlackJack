@@ -1,5 +1,5 @@
 # BlackJack
-This is a personal project that I created using PyGame. This isn't finished but I hope that you have some fun with it! This project started during my CIS012 class at PCC but there's a lot that I added to it on the side. I've implemented PyGame so the code doesn't only run in the terminal. I'm planning on adding more details to this project. 
+This is a personal project that we created using PyGame and Python. This isn't finished but we hope that you have some fun with it! This project started when we were reminiscing about the card games we used to play as a child and realized how much fun it would be if there was an online variation of it that doesn't require using the internet. Although this is only a one player game, the dealer is always there and prevents you from taking too much of a risk.
 
 Future Plans
 1. Make the entire project run through the same display that my game runs through. Since there's still some part of the project that requires the terminal, I plan to add those options to the display screen.
